@@ -1,0 +1,1260 @@
+equipo-001,producto_info:tipo_producto,equipo
+equipo-001,producto_info:nombre,iPhone 13
+equipo-001,producto_info:precio,944
+equipo-001,producto_info:marca,Apple
+equipo-001,producto_info:stock,60
+equipo-001,equipo_detalles:tipo,celular
+equipo-001,equipo_detalles:almacenamiento,256
+equipo-001,equipo_detalles:ram,8
+equipo-001,equipo_detalles:bateria,4419
+equipo-001,equipo_detalles:pantalla,6.3
+equipo-001,equipo_detalles:sistema_operativo,iOS
+equipo-002,producto_info:tipo_producto,equipo
+equipo-002,producto_info:nombre,iPhone 14
+equipo-002,producto_info:precio,380
+equipo-002,producto_info:marca,Apple
+equipo-002,producto_info:stock,57
+equipo-002,equipo_detalles:tipo,celular
+equipo-002,equipo_detalles:almacenamiento,128
+equipo-002,equipo_detalles:ram,12
+equipo-002,equipo_detalles:bateria,3185
+equipo-002,equipo_detalles:pantalla,5.9
+equipo-002,equipo_detalles:sistema_operativo,iOS
+equipo-003,producto_info:tipo_producto,equipo
+equipo-003,producto_info:nombre,iPhone 14 Pro
+equipo-003,producto_info:precio,441
+equipo-003,producto_info:marca,Apple
+equipo-003,producto_info:stock,13
+equipo-003,equipo_detalles:tipo,celular
+equipo-003,equipo_detalles:almacenamiento,128
+equipo-003,equipo_detalles:ram,12
+equipo-003,equipo_detalles:bateria,3121
+equipo-003,equipo_detalles:pantalla,6.8
+equipo-003,equipo_detalles:sistema_operativo,iOS
+equipo-004,producto_info:tipo_producto,equipo
+equipo-004,producto_info:nombre,iPhone 15
+equipo-004,producto_info:precio,859
+equipo-004,producto_info:marca,Apple
+equipo-004,producto_info:stock,35
+equipo-004,equipo_detalles:tipo,celular
+equipo-004,equipo_detalles:almacenamiento,512
+equipo-004,equipo_detalles:ram,6
+equipo-004,equipo_detalles:bateria,4258
+equipo-004,equipo_detalles:pantalla,6.2
+equipo-004,equipo_detalles:sistema_operativo,iOS
+equipo-005,producto_info:tipo_producto,equipo
+equipo-005,producto_info:nombre,Galaxy S21
+equipo-005,producto_info:precio,527
+equipo-005,producto_info:marca,Samsung
+equipo-005,producto_info:stock,91
+equipo-005,equipo_detalles:tipo,celular
+equipo-005,equipo_detalles:almacenamiento,256
+equipo-005,equipo_detalles:ram,6
+equipo-005,equipo_detalles:bateria,3613
+equipo-005,equipo_detalles:pantalla,6.7
+equipo-005,equipo_detalles:sistema_operativo,Android
+equipo-006,producto_info:tipo_producto,equipo
+equipo-006,producto_info:nombre,Galaxy S22
+equipo-006,producto_info:precio,677
+equipo-006,producto_info:marca,Samsung
+equipo-006,producto_info:stock,14
+equipo-006,equipo_detalles:tipo,celular
+equipo-006,equipo_detalles:almacenamiento,128
+equipo-006,equipo_detalles:ram,4
+equipo-006,equipo_detalles:bateria,4930
+equipo-006,equipo_detalles:pantalla,6.4
+equipo-006,equipo_detalles:sistema_operativo,Android
+equipo-007,producto_info:tipo_producto,equipo
+equipo-007,producto_info:nombre,Galaxy S23
+equipo-007,producto_info:precio,304
+equipo-007,producto_info:marca,Samsung
+equipo-007,producto_info:stock,46
+equipo-007,equipo_detalles:tipo,celular
+equipo-007,equipo_detalles:almacenamiento,128
+equipo-007,equipo_detalles:ram,8
+equipo-007,equipo_detalles:bateria,3708
+equipo-007,equipo_detalles:pantalla,6.8
+equipo-007,equipo_detalles:sistema_operativo,Android
+equipo-008,producto_info:tipo_producto,equipo
+equipo-008,producto_info:nombre,Galaxy A54
+equipo-008,producto_info:precio,1085
+equipo-008,producto_info:marca,Samsung
+equipo-008,producto_info:stock,85
+equipo-008,equipo_detalles:tipo,celular
+equipo-008,equipo_detalles:almacenamiento,64
+equipo-008,equipo_detalles:ram,6
+equipo-008,equipo_detalles:bateria,3553
+equipo-008,equipo_detalles:pantalla,6.6
+equipo-008,equipo_detalles:sistema_operativo,Android
+equipo-009,producto_info:tipo_producto,equipo
+equipo-009,producto_info:nombre,Redmi Note 11
+equipo-009,producto_info:precio,488
+equipo-009,producto_info:marca,Xiaomi
+equipo-009,producto_info:stock,52
+equipo-009,equipo_detalles:tipo,celular
+equipo-009,equipo_detalles:almacenamiento,128
+equipo-009,equipo_detalles:ram,6
+equipo-009,equipo_detalles:bateria,4522
+equipo-009,equipo_detalles:pantalla,6.5
+equipo-009,equipo_detalles:sistema_operativo,Android
+equipo-010,producto_info:tipo_producto,equipo
+equipo-010,producto_info:nombre,Redmi Note 12
+equipo-010,producto_info:precio,324
+equipo-010,producto_info:marca,Xiaomi
+equipo-010,producto_info:stock,57
+equipo-010,equipo_detalles:tipo,celular
+equipo-010,equipo_detalles:almacenamiento,512
+equipo-010,equipo_detalles:ram,12
+equipo-010,equipo_detalles:bateria,4930
+equipo-010,equipo_detalles:pantalla,6.2
+equipo-010,equipo_detalles:sistema_operativo,Android
+equipo-011,producto_info:tipo_producto,equipo
+equipo-011,producto_info:nombre,Mi 11
+equipo-011,producto_info:precio,1200
+equipo-011,producto_info:marca,Xiaomi
+equipo-011,producto_info:stock,55
+equipo-011,equipo_detalles:tipo,celular
+equipo-011,equipo_detalles:almacenamiento,64
+equipo-011,equipo_detalles:ram,8
+equipo-011,equipo_detalles:bateria,3160
+equipo-011,equipo_detalles:pantalla,6.7
+equipo-011,equipo_detalles:sistema_operativo,Android
+equipo-012,producto_info:tipo_producto,equipo
+equipo-012,producto_info:nombre,Mi 12
+equipo-012,producto_info:precio,701
+equipo-012,producto_info:marca,Xiaomi
+equipo-012,producto_info:stock,67
+equipo-012,equipo_detalles:tipo,celular
+equipo-012,equipo_detalles:almacenamiento,128
+equipo-012,equipo_detalles:ram,6
+equipo-012,equipo_detalles:bateria,3723
+equipo-012,equipo_detalles:pantalla,6
+equipo-012,equipo_detalles:sistema_operativo,Android
+equipo-013,producto_info:tipo_producto,equipo
+equipo-013,producto_info:nombre,Moto G Power
+equipo-013,producto_info:precio,995
+equipo-013,producto_info:marca,Motorola
+equipo-013,producto_info:stock,75
+equipo-013,equipo_detalles:tipo,celular
+equipo-013,equipo_detalles:almacenamiento,64
+equipo-013,equipo_detalles:ram,12
+equipo-013,equipo_detalles:bateria,3142
+equipo-013,equipo_detalles:pantalla,6.6
+equipo-013,equipo_detalles:sistema_operativo,Android
+equipo-014,producto_info:tipo_producto,equipo
+equipo-014,producto_info:nombre,Moto G Stylus
+equipo-014,producto_info:precio,554
+equipo-014,producto_info:marca,Motorola
+equipo-014,producto_info:stock,50
+equipo-014,equipo_detalles:tipo,celular
+equipo-014,equipo_detalles:almacenamiento,512
+equipo-014,equipo_detalles:ram,4
+equipo-014,equipo_detalles:bateria,4510
+equipo-014,equipo_detalles:pantalla,6.2
+equipo-014,equipo_detalles:sistema_operativo,Android
+equipo-015,producto_info:tipo_producto,equipo
+equipo-015,producto_info:nombre,Edge 30
+equipo-015,producto_info:precio,617
+equipo-015,producto_info:marca,Motorola
+equipo-015,producto_info:stock,88
+equipo-015,equipo_detalles:tipo,celular
+equipo-015,equipo_detalles:almacenamiento,128
+equipo-015,equipo_detalles:ram,4
+equipo-015,equipo_detalles:bateria,3471
+equipo-015,equipo_detalles:pantalla,6.3
+equipo-015,equipo_detalles:sistema_operativo,Android
+equipo-016,producto_info:tipo_producto,equipo
+equipo-016,producto_info:nombre,Edge 40
+equipo-016,producto_info:precio,479
+equipo-016,producto_info:marca,Motorola
+equipo-016,producto_info:stock,35
+equipo-016,equipo_detalles:tipo,celular
+equipo-016,equipo_detalles:almacenamiento,512
+equipo-016,equipo_detalles:ram,12
+equipo-016,equipo_detalles:bateria,3955
+equipo-016,equipo_detalles:pantalla,6.2
+equipo-016,equipo_detalles:sistema_operativo,Android
+equipo-017,producto_info:tipo_producto,equipo
+equipo-017,producto_info:nombre,Nord N200
+equipo-017,producto_info:precio,398
+equipo-017,producto_info:marca,OnePlus
+equipo-017,producto_info:stock,5
+equipo-017,equipo_detalles:tipo,celular
+equipo-017,equipo_detalles:almacenamiento,128
+equipo-017,equipo_detalles:ram,8
+equipo-017,equipo_detalles:bateria,4113
+equipo-017,equipo_detalles:pantalla,6.3
+equipo-017,equipo_detalles:sistema_operativo,Android
+equipo-018,producto_info:tipo_producto,equipo
+equipo-018,producto_info:nombre,Nord CE 2
+equipo-018,producto_info:precio,637
+equipo-018,producto_info:marca,OnePlus
+equipo-018,producto_info:stock,58
+equipo-018,equipo_detalles:tipo,celular
+equipo-018,equipo_detalles:almacenamiento,128
+equipo-018,equipo_detalles:ram,8
+equipo-018,equipo_detalles:bateria,4920
+equipo-018,equipo_detalles:pantalla,6.5
+equipo-018,equipo_detalles:sistema_operativo,Android
+equipo-019,producto_info:tipo_producto,equipo
+equipo-019,producto_info:nombre,OnePlus 9
+equipo-019,producto_info:precio,610
+equipo-019,producto_info:marca,OnePlus
+equipo-019,producto_info:stock,85
+equipo-019,equipo_detalles:tipo,celular
+equipo-019,equipo_detalles:almacenamiento,64
+equipo-019,equipo_detalles:ram,4
+equipo-019,equipo_detalles:bateria,3281
+equipo-019,equipo_detalles:pantalla,5.9
+equipo-019,equipo_detalles:sistema_operativo,Android
+equipo-020,producto_info:tipo_producto,equipo
+equipo-020,producto_info:nombre,OnePlus 10
+equipo-020,producto_info:precio,1164
+equipo-020,producto_info:marca,OnePlus
+equipo-020,producto_info:stock,81
+equipo-020,equipo_detalles:tipo,celular
+equipo-020,equipo_detalles:almacenamiento,64
+equipo-020,equipo_detalles:ram,8
+equipo-020,equipo_detalles:bateria,3217
+equipo-020,equipo_detalles:pantalla,6
+equipo-020,equipo_detalles:sistema_operativo,Android
+accesorio-001,producto_info:tipo_producto,accesorio
+accesorio-001,producto_info:nombre,Cargador 20W
+accesorio-001,producto_info:precio,81
+accesorio-001,producto_info:marca,Anker
+accesorio-001,producto_info:stock,127
+accesorio-001,accesorio_detalles:compatible_con,varios modelos
+accesorio-001,accesorio_detalles:tipo_accesorio,reloj
+accesorio-001,accesorio_detalles:potencia,30W
+accesorio-001,accesorio_detalles:tipo_conector,Lightning
+accesorio-001,accesorio_detalles:cable_incluido,FALSE
+accesorio-002,producto_info:tipo_producto,accesorio
+accesorio-002,producto_info:nombre,Cargador 30W
+accesorio-002,producto_info:precio,23
+accesorio-002,producto_info:marca,Anker
+accesorio-002,producto_info:stock,259
+accesorio-002,accesorio_detalles:compatible_con,varios modelos
+accesorio-002,accesorio_detalles:tipo_accesorio,cargador
+accesorio-002,accesorio_detalles:potencia,45W
+accesorio-002,accesorio_detalles:tipo_conector,USB-C
+accesorio-002,accesorio_detalles:cable_incluido,TRUE
+accesorio-003,producto_info:tipo_producto,accesorio
+accesorio-003,producto_info:nombre,Cable USB-C
+accesorio-003,producto_info:precio,43
+accesorio-003,producto_info:marca,Anker
+accesorio-003,producto_info:stock,122
+accesorio-003,accesorio_detalles:compatible_con,varios modelos
+accesorio-003,accesorio_detalles:tipo_accesorio,adaptador
+accesorio-003,accesorio_detalles:potencia,
+accesorio-003,accesorio_detalles:tipo_conector,USB-C
+accesorio-003,accesorio_detalles:cable_incluido,FALSE
+accesorio-004,producto_info:tipo_producto,accesorio
+accesorio-004,producto_info:nombre,PowerBank 10000mAh
+accesorio-004,producto_info:precio,91
+accesorio-004,producto_info:marca,Anker
+accesorio-004,producto_info:stock,470
+accesorio-004,accesorio_detalles:compatible_con,varios modelos
+accesorio-004,accesorio_detalles:tipo_accesorio,cable
+accesorio-004,accesorio_detalles:potencia,
+accesorio-004,accesorio_detalles:tipo_conector,Micro-USB
+accesorio-004,accesorio_detalles:cable_incluido,TRUE
+accesorio-005,producto_info:tipo_producto,accesorio
+accesorio-005,producto_info:nombre,Funda Galaxy S22
+accesorio-005,producto_info:precio,47
+accesorio-005,producto_info:marca,Samsung
+accesorio-005,producto_info:stock,85
+accesorio-005,accesorio_detalles:compatible_con,varios modelos
+accesorio-005,accesorio_detalles:tipo_accesorio,batería externa
+accesorio-005,accesorio_detalles:potencia,
+accesorio-005,accesorio_detalles:tipo_conector,USB-C
+accesorio-005,accesorio_detalles:cable_incluido,FALSE
+accesorio-006,producto_info:tipo_producto,accesorio
+accesorio-006,producto_info:nombre,Cargador inalámbrico
+accesorio-006,producto_info:precio,106
+accesorio-006,producto_info:marca,Samsung
+accesorio-006,producto_info:stock,324
+accesorio-006,accesorio_detalles:compatible_con,varios modelos
+accesorio-006,accesorio_detalles:tipo_accesorio,cable
+accesorio-006,accesorio_detalles:potencia,30W
+accesorio-006,accesorio_detalles:tipo_conector,Micro-USB
+accesorio-006,accesorio_detalles:cable_incluido,FALSE
+accesorio-007,producto_info:tipo_producto,accesorio
+accesorio-007,producto_info:nombre,S Pen
+accesorio-007,producto_info:precio,109
+accesorio-007,producto_info:marca,Samsung
+accesorio-007,producto_info:stock,173
+accesorio-007,accesorio_detalles:compatible_con,varios modelos
+accesorio-007,accesorio_detalles:tipo_accesorio,audífonos
+accesorio-007,accesorio_detalles:potencia,
+accesorio-007,accesorio_detalles:tipo_conector,Micro-USB
+accesorio-007,accesorio_detalles:cable_incluido,TRUE
+accesorio-008,producto_info:tipo_producto,accesorio
+accesorio-008,producto_info:nombre,Adaptador HDMI
+accesorio-008,producto_info:precio,128
+accesorio-008,producto_info:marca,Samsung
+accesorio-008,producto_info:stock,493
+accesorio-008,accesorio_detalles:compatible_con,varios modelos
+accesorio-008,accesorio_detalles:tipo_accesorio,cargador
+accesorio-008,accesorio_detalles:potencia,
+accesorio-008,accesorio_detalles:tipo_conector,USB-C
+accesorio-008,accesorio_detalles:cable_incluido,TRUE
+accesorio-009,producto_info:tipo_producto,accesorio
+accesorio-009,producto_info:nombre,AirPods
+accesorio-009,producto_info:precio,32
+accesorio-009,producto_info:marca,Apple
+accesorio-009,producto_info:stock,28
+accesorio-009,accesorio_detalles:compatible_con,varios modelos
+accesorio-009,accesorio_detalles:tipo_accesorio,audífonos
+accesorio-009,accesorio_detalles:potencia,
+accesorio-009,accesorio_detalles:tipo_conector,USB-C
+accesorio-009,accesorio_detalles:cable_incluido,TRUE
+accesorio-010,producto_info:tipo_producto,accesorio
+accesorio-010,producto_info:nombre,Cable Lightning
+accesorio-010,producto_info:precio,44
+accesorio-010,producto_info:marca,Apple
+accesorio-010,producto_info:stock,68
+accesorio-010,accesorio_detalles:compatible_con,varios modelos
+accesorio-010,accesorio_detalles:tipo_accesorio,adaptador
+accesorio-010,accesorio_detalles:potencia,
+accesorio-010,accesorio_detalles:tipo_conector,Micro-USB
+accesorio-010,accesorio_detalles:cable_incluido,FALSE
+accesorio-011,producto_info:tipo_producto,accesorio
+accesorio-011,producto_info:nombre,Cargador MagSafe
+accesorio-011,producto_info:precio,129
+accesorio-011,producto_info:marca,Apple
+accesorio-011,producto_info:stock,423
+accesorio-011,accesorio_detalles:compatible_con,varios modelos
+accesorio-011,accesorio_detalles:tipo_accesorio,cargador
+accesorio-011,accesorio_detalles:potencia,10W
+accesorio-011,accesorio_detalles:tipo_conector,USB-C
+accesorio-011,accesorio_detalles:cable_incluido,TRUE
+accesorio-012,producto_info:tipo_producto,accesorio
+accesorio-012,producto_info:nombre,Funda iPhone 14
+accesorio-012,producto_info:precio,74
+accesorio-012,producto_info:marca,Apple
+accesorio-012,producto_info:stock,260
+accesorio-012,accesorio_detalles:compatible_con,varios modelos
+accesorio-012,accesorio_detalles:tipo_accesorio,cable
+accesorio-012,accesorio_detalles:potencia,
+accesorio-012,accesorio_detalles:tipo_conector,USB-C
+accesorio-012,accesorio_detalles:cable_incluido,FALSE
+accesorio-013,producto_info:tipo_producto,accesorio
+accesorio-013,producto_info:nombre,Cargador rápido
+accesorio-013,producto_info:precio,96
+accesorio-013,producto_info:marca,Xiaomi
+accesorio-013,producto_info:stock,476
+accesorio-013,accesorio_detalles:compatible_con,varios modelos
+accesorio-013,accesorio_detalles:tipo_accesorio,adaptador
+accesorio-013,accesorio_detalles:potencia,45W
+accesorio-013,accesorio_detalles:tipo_conector,Micro-USB
+accesorio-013,accesorio_detalles:cable_incluido,TRUE
+accesorio-014,producto_info:tipo_producto,accesorio
+accesorio-014,producto_info:nombre,Cámara de seguridad
+accesorio-014,producto_info:precio,26
+accesorio-014,producto_info:marca,Xiaomi
+accesorio-014,producto_info:stock,162
+accesorio-014,accesorio_detalles:compatible_con,varios modelos
+accesorio-014,accesorio_detalles:tipo_accesorio,cable
+accesorio-014,accesorio_detalles:potencia,
+accesorio-014,accesorio_detalles:tipo_conector,Lightning
+accesorio-014,accesorio_detalles:cable_incluido,TRUE
+accesorio-015,producto_info:tipo_producto,accesorio
+accesorio-015,producto_info:nombre,Smart Band
+accesorio-015,producto_info:precio,142
+accesorio-015,producto_info:marca,Xiaomi
+accesorio-015,producto_info:stock,339
+accesorio-015,accesorio_detalles:compatible_con,varios modelos
+accesorio-015,accesorio_detalles:tipo_accesorio,cable
+accesorio-015,accesorio_detalles:potencia,
+accesorio-015,accesorio_detalles:tipo_conector,Lightning
+accesorio-015,accesorio_detalles:cable_incluido,TRUE
+accesorio-016,producto_info:tipo_producto,accesorio
+accesorio-016,producto_info:nombre,Cargador para auto
+accesorio-016,producto_info:precio,112
+accesorio-016,producto_info:marca,Xiaomi
+accesorio-016,producto_info:stock,198
+accesorio-016,accesorio_detalles:compatible_con,varios modelos
+accesorio-016,accesorio_detalles:tipo_accesorio,reloj
+accesorio-016,accesorio_detalles:potencia,10W
+accesorio-016,accesorio_detalles:tipo_conector,Micro-USB
+accesorio-016,accesorio_detalles:cable_incluido,TRUE
+accesorio-017,producto_info:tipo_producto,accesorio
+accesorio-017,producto_info:nombre,Base carga inalámbrica
+accesorio-017,producto_info:precio,16
+accesorio-017,producto_info:marca,Belkin
+accesorio-017,producto_info:stock,52
+accesorio-017,accesorio_detalles:compatible_con,varios modelos
+accesorio-017,accesorio_detalles:tipo_accesorio,cargador
+accesorio-017,accesorio_detalles:potencia,
+accesorio-017,accesorio_detalles:tipo_conector,Lightning
+accesorio-017,accesorio_detalles:cable_incluido,TRUE
+accesorio-018,producto_info:tipo_producto,accesorio
+accesorio-018,producto_info:nombre,Cargador auto USB
+accesorio-018,producto_info:precio,114
+accesorio-018,producto_info:marca,Belkin
+accesorio-018,producto_info:stock,455
+accesorio-018,accesorio_detalles:compatible_con,varios modelos
+accesorio-018,accesorio_detalles:tipo_accesorio,batería externa
+accesorio-018,accesorio_detalles:potencia,10W
+accesorio-018,accesorio_detalles:tipo_conector,Lightning
+accesorio-018,accesorio_detalles:cable_incluido,TRUE
+accesorio-019,producto_info:tipo_producto,accesorio
+accesorio-019,producto_info:nombre,Protector pantalla
+accesorio-019,producto_info:precio,123
+accesorio-019,producto_info:marca,Belkin
+accesorio-019,producto_info:stock,389
+accesorio-019,accesorio_detalles:compatible_con,varios modelos
+accesorio-019,accesorio_detalles:tipo_accesorio,cable
+accesorio-019,accesorio_detalles:potencia,
+accesorio-019,accesorio_detalles:tipo_conector,USB-C
+accesorio-019,accesorio_detalles:cable_incluido,FALSE
+accesorio-020,producto_info:tipo_producto,accesorio
+accesorio-020,producto_info:nombre,Hub USB-C
+accesorio-020,producto_info:precio,142
+accesorio-020,producto_info:marca,Belkin
+accesorio-020,producto_info:stock,387
+accesorio-020,accesorio_detalles:compatible_con,varios modelos
+accesorio-020,accesorio_detalles:tipo_accesorio,cargador
+accesorio-020,accesorio_detalles:potencia,
+accesorio-020,accesorio_detalles:tipo_conector,Lightning
+accesorio-020,accesorio_detalles:cable_incluido,TRUE
+equipo-021,producto_info:tipo_producto,equipo
+equipo-021,producto_info:nombre,iPhone 13
+equipo-021,producto_info:precio,1195
+equipo-021,producto_info:marca,Apple
+equipo-021,producto_info:stock,16
+equipo-021,equipo_detalles:tipo,celular
+equipo-021,equipo_detalles:almacenamiento,64
+equipo-021,equipo_detalles:ram,4
+equipo-021,equipo_detalles:bateria,3882
+equipo-021,equipo_detalles:pantalla,6
+equipo-021,equipo_detalles:sistema_operativo,iOS
+equipo-022,producto_info:tipo_producto,equipo
+equipo-022,producto_info:nombre,iPhone 14
+equipo-022,producto_info:precio,328
+equipo-022,producto_info:marca,Apple
+equipo-022,producto_info:stock,30
+equipo-022,equipo_detalles:tipo,celular
+equipo-022,equipo_detalles:almacenamiento,512
+equipo-022,equipo_detalles:ram,12
+equipo-022,equipo_detalles:bateria,4617
+equipo-022,equipo_detalles:pantalla,6
+equipo-022,equipo_detalles:sistema_operativo,iOS
+equipo-023,producto_info:tipo_producto,equipo
+equipo-023,producto_info:nombre,iPhone 14 Pro
+equipo-023,producto_info:precio,522
+equipo-023,producto_info:marca,Apple
+equipo-023,producto_info:stock,33
+equipo-023,equipo_detalles:tipo,celular
+equipo-023,equipo_detalles:almacenamiento,512
+equipo-023,equipo_detalles:ram,12
+equipo-023,equipo_detalles:bateria,3223
+equipo-023,equipo_detalles:pantalla,6.8
+equipo-023,equipo_detalles:sistema_operativo,iOS
+equipo-024,producto_info:tipo_producto,equipo
+equipo-024,producto_info:nombre,iPhone 15
+equipo-024,producto_info:precio,951
+equipo-024,producto_info:marca,Apple
+equipo-024,producto_info:stock,11
+equipo-024,equipo_detalles:tipo,celular
+equipo-024,equipo_detalles:almacenamiento,256
+equipo-024,equipo_detalles:ram,4
+equipo-024,equipo_detalles:bateria,4759
+equipo-024,equipo_detalles:pantalla,6.3
+equipo-024,equipo_detalles:sistema_operativo,iOS
+equipo-025,producto_info:tipo_producto,equipo
+equipo-025,producto_info:nombre,Galaxy S21
+equipo-025,producto_info:precio,894
+equipo-025,producto_info:marca,Samsung
+equipo-025,producto_info:stock,45
+equipo-025,equipo_detalles:tipo,celular
+equipo-025,equipo_detalles:almacenamiento,256
+equipo-025,equipo_detalles:ram,8
+equipo-025,equipo_detalles:bateria,3729
+equipo-025,equipo_detalles:pantalla,6.6
+equipo-025,equipo_detalles:sistema_operativo,Android
+equipo-026,producto_info:tipo_producto,equipo
+equipo-026,producto_info:nombre,Galaxy S22
+equipo-026,producto_info:precio,445
+equipo-026,producto_info:marca,Samsung
+equipo-026,producto_info:stock,47
+equipo-026,equipo_detalles:tipo,celular
+equipo-026,equipo_detalles:almacenamiento,64
+equipo-026,equipo_detalles:ram,8
+equipo-026,equipo_detalles:bateria,3698
+equipo-026,equipo_detalles:pantalla,6
+equipo-026,equipo_detalles:sistema_operativo,Android
+equipo-027,producto_info:tipo_producto,equipo
+equipo-027,producto_info:nombre,Galaxy S23
+equipo-027,producto_info:precio,647
+equipo-027,producto_info:marca,Samsung
+equipo-027,producto_info:stock,73
+equipo-027,equipo_detalles:tipo,celular
+equipo-027,equipo_detalles:almacenamiento,128
+equipo-027,equipo_detalles:ram,6
+equipo-027,equipo_detalles:bateria,3215
+equipo-027,equipo_detalles:pantalla,5.9
+equipo-027,equipo_detalles:sistema_operativo,Android
+equipo-028,producto_info:tipo_producto,equipo
+equipo-028,producto_info:nombre,Galaxy A54
+equipo-028,producto_info:precio,999
+equipo-028,producto_info:marca,Samsung
+equipo-028,producto_info:stock,54
+equipo-028,equipo_detalles:tipo,celular
+equipo-028,equipo_detalles:almacenamiento,64
+equipo-028,equipo_detalles:ram,4
+equipo-028,equipo_detalles:bateria,3214
+equipo-028,equipo_detalles:pantalla,6.2
+equipo-028,equipo_detalles:sistema_operativo,Android
+equipo-029,producto_info:tipo_producto,equipo
+equipo-029,producto_info:nombre,Redmi Note 11
+equipo-029,producto_info:precio,836
+equipo-029,producto_info:marca,Xiaomi
+equipo-029,producto_info:stock,89
+equipo-029,equipo_detalles:tipo,celular
+equipo-029,equipo_detalles:almacenamiento,64
+equipo-029,equipo_detalles:ram,12
+equipo-029,equipo_detalles:bateria,4907
+equipo-029,equipo_detalles:pantalla,6.4
+equipo-029,equipo_detalles:sistema_operativo,Android
+equipo-030,producto_info:tipo_producto,equipo
+equipo-030,producto_info:nombre,Redmi Note 12
+equipo-030,producto_info:precio,1124
+equipo-030,producto_info:marca,Xiaomi
+equipo-030,producto_info:stock,88
+equipo-030,equipo_detalles:tipo,celular
+equipo-030,equipo_detalles:almacenamiento,64
+equipo-030,equipo_detalles:ram,12
+equipo-030,equipo_detalles:bateria,3116
+equipo-030,equipo_detalles:pantalla,6.7
+equipo-030,equipo_detalles:sistema_operativo,Android
+equipo-031,producto_info:tipo_producto,equipo
+equipo-031,producto_info:nombre,Mi 11
+equipo-031,producto_info:precio,670
+equipo-031,producto_info:marca,Xiaomi
+equipo-031,producto_info:stock,7
+equipo-031,equipo_detalles:tipo,celular
+equipo-031,equipo_detalles:almacenamiento,64
+equipo-031,equipo_detalles:ram,12
+equipo-031,equipo_detalles:bateria,3644
+equipo-031,equipo_detalles:pantalla,6.4
+equipo-031,equipo_detalles:sistema_operativo,Android
+equipo-032,producto_info:tipo_producto,equipo
+equipo-032,producto_info:nombre,Mi 12
+equipo-032,producto_info:precio,420
+equipo-032,producto_info:marca,Xiaomi
+equipo-032,producto_info:stock,97
+equipo-032,equipo_detalles:tipo,celular
+equipo-032,equipo_detalles:almacenamiento,128
+equipo-032,equipo_detalles:ram,12
+equipo-032,equipo_detalles:bateria,3756
+equipo-032,equipo_detalles:pantalla,5.9
+equipo-032,equipo_detalles:sistema_operativo,Android
+equipo-033,producto_info:tipo_producto,equipo
+equipo-033,producto_info:nombre,Moto G Power
+equipo-033,producto_info:precio,695
+equipo-033,producto_info:marca,Motorola
+equipo-033,producto_info:stock,88
+equipo-033,equipo_detalles:tipo,celular
+equipo-033,equipo_detalles:almacenamiento,64
+equipo-033,equipo_detalles:ram,12
+equipo-033,equipo_detalles:bateria,4916
+equipo-033,equipo_detalles:pantalla,6.3
+equipo-033,equipo_detalles:sistema_operativo,Android
+equipo-024,producto_info:tipo_producto,equipo
+equipo-024,producto_info:nombre,Moto G Stylus
+equipo-024,producto_info:precio,463
+equipo-024,producto_info:marca,Motorola
+equipo-024,producto_info:stock,83
+equipo-024,equipo_detalles:tipo,celular
+equipo-024,equipo_detalles:almacenamiento,64
+equipo-024,equipo_detalles:ram,4
+equipo-024,equipo_detalles:bateria,4561
+equipo-024,equipo_detalles:pantalla,6.1
+equipo-024,equipo_detalles:sistema_operativo,Android
+equipo-025,producto_info:tipo_producto,equipo
+equipo-025,producto_info:nombre,Edge 30
+equipo-025,producto_info:precio,1115
+equipo-025,producto_info:marca,Motorola
+equipo-025,producto_info:stock,67
+equipo-025,equipo_detalles:tipo,celular
+equipo-025,equipo_detalles:almacenamiento,512
+equipo-025,equipo_detalles:ram,12
+equipo-025,equipo_detalles:bateria,4666
+equipo-025,equipo_detalles:pantalla,6.5
+equipo-025,equipo_detalles:sistema_operativo,Android
+equipo-026,producto_info:tipo_producto,equipo
+equipo-026,producto_info:nombre,Edge 40
+equipo-026,producto_info:precio,853
+equipo-026,producto_info:marca,Motorola
+equipo-026,producto_info:stock,57
+equipo-026,equipo_detalles:tipo,celular
+equipo-026,equipo_detalles:almacenamiento,64
+equipo-026,equipo_detalles:ram,8
+equipo-026,equipo_detalles:bateria,3520
+equipo-026,equipo_detalles:pantalla,6
+equipo-026,equipo_detalles:sistema_operativo,Android
+equipo-027,producto_info:tipo_producto,equipo
+equipo-027,producto_info:nombre,Nord N200
+equipo-027,producto_info:precio,560
+equipo-027,producto_info:marca,OnePlus
+equipo-027,producto_info:stock,72
+equipo-027,equipo_detalles:tipo,celular
+equipo-027,equipo_detalles:almacenamiento,512
+equipo-027,equipo_detalles:ram,6
+equipo-027,equipo_detalles:bateria,3972
+equipo-027,equipo_detalles:pantalla,6.4
+equipo-027,equipo_detalles:sistema_operativo,Android
+equipo-028,producto_info:tipo_producto,equipo
+equipo-028,producto_info:nombre,Nord CE 2
+equipo-028,producto_info:precio,408
+equipo-028,producto_info:marca,OnePlus
+equipo-028,producto_info:stock,94
+equipo-028,equipo_detalles:tipo,celular
+equipo-028,equipo_detalles:almacenamiento,128
+equipo-028,equipo_detalles:ram,8
+equipo-028,equipo_detalles:bateria,4184
+equipo-028,equipo_detalles:pantalla,5.9
+equipo-028,equipo_detalles:sistema_operativo,Android
+equipo-029,producto_info:tipo_producto,equipo
+equipo-029,producto_info:nombre,OnePlus 9
+equipo-029,producto_info:precio,773
+equipo-029,producto_info:marca,OnePlus
+equipo-029,producto_info:stock,20
+equipo-029,equipo_detalles:tipo,celular
+equipo-029,equipo_detalles:almacenamiento,256
+equipo-029,equipo_detalles:ram,8
+equipo-029,equipo_detalles:bateria,3057
+equipo-029,equipo_detalles:pantalla,6.8
+equipo-029,equipo_detalles:sistema_operativo,Android
+equipo-030,producto_info:tipo_producto,equipo
+equipo-030,producto_info:nombre,OnePlus 10
+equipo-030,producto_info:precio,588
+equipo-030,producto_info:marca,OnePlus
+equipo-030,producto_info:stock,48
+equipo-030,equipo_detalles:tipo,celular
+equipo-030,equipo_detalles:almacenamiento,256
+equipo-030,equipo_detalles:ram,12
+equipo-030,equipo_detalles:bateria,4452
+equipo-030,equipo_detalles:pantalla,6.3
+equipo-030,equipo_detalles:sistema_operativo,Android
+accesorio-021,producto_info:tipo_producto,accesorio
+accesorio-021,producto_info:nombre,Cargador 20W
+accesorio-021,producto_info:precio,118
+accesorio-021,producto_info:marca,Anker
+accesorio-021,producto_info:stock,158
+accesorio-021,accesorio_detalles:compatible_con,varios modelos
+accesorio-021,accesorio_detalles:tipo_accesorio,cargador
+accesorio-021,accesorio_detalles:potencia,20W
+accesorio-021,accesorio_detalles:tipo_conector,USB-C
+accesorio-021,accesorio_detalles:cable_incluido,FALSE
+accesorio-022,producto_info:tipo_producto,accesorio
+accesorio-022,producto_info:nombre,Cargador 30W
+accesorio-022,producto_info:precio,67
+accesorio-022,producto_info:marca,Anker
+accesorio-022,producto_info:stock,428
+accesorio-022,accesorio_detalles:compatible_con,varios modelos
+accesorio-022,accesorio_detalles:tipo_accesorio,audífonos
+accesorio-022,accesorio_detalles:potencia,30W
+accesorio-022,accesorio_detalles:tipo_conector,USB-C
+accesorio-022,accesorio_detalles:cable_incluido,TRUE
+accesorio-023,producto_info:tipo_producto,accesorio
+accesorio-023,producto_info:nombre,Cable USB-C
+accesorio-023,producto_info:precio,33
+accesorio-023,producto_info:marca,Anker
+accesorio-023,producto_info:stock,152
+accesorio-023,accesorio_detalles:compatible_con,varios modelos
+accesorio-023,accesorio_detalles:tipo_accesorio,funda
+accesorio-023,accesorio_detalles:potencia,
+accesorio-023,accesorio_detalles:tipo_conector,Micro-USB
+accesorio-023,accesorio_detalles:cable_incluido,TRUE
+accesorio-024,producto_info:tipo_producto,accesorio
+accesorio-024,producto_info:nombre,PowerBank 10000mAh
+accesorio-024,producto_info:precio,59
+accesorio-024,producto_info:marca,Anker
+accesorio-024,producto_info:stock,324
+accesorio-024,accesorio_detalles:compatible_con,varios modelos
+accesorio-024,accesorio_detalles:tipo_accesorio,cargador
+accesorio-024,accesorio_detalles:potencia,
+accesorio-024,accesorio_detalles:tipo_conector,USB-C
+accesorio-024,accesorio_detalles:cable_incluido,TRUE
+accesorio-025,producto_info:tipo_producto,accesorio
+accesorio-025,producto_info:nombre,Funda Galaxy S22
+accesorio-025,producto_info:precio,69
+accesorio-025,producto_info:marca,Samsung
+accesorio-025,producto_info:stock,289
+accesorio-025,accesorio_detalles:compatible_con,varios modelos
+accesorio-025,accesorio_detalles:tipo_accesorio,cargador
+accesorio-025,accesorio_detalles:potencia,
+accesorio-025,accesorio_detalles:tipo_conector,Micro-USB
+accesorio-025,accesorio_detalles:cable_incluido,FALSE
+accesorio-026,producto_info:tipo_producto,accesorio
+accesorio-026,producto_info:nombre,Cargador inalámbrico
+accesorio-026,producto_info:precio,60
+accesorio-026,producto_info:marca,Samsung
+accesorio-026,producto_info:stock,490
+accesorio-026,accesorio_detalles:compatible_con,varios modelos
+accesorio-026,accesorio_detalles:tipo_accesorio,reloj
+accesorio-026,accesorio_detalles:potencia,30W
+accesorio-026,accesorio_detalles:tipo_conector,Lightning
+accesorio-026,accesorio_detalles:cable_incluido,TRUE
+accesorio-027,producto_info:tipo_producto,accesorio
+accesorio-027,producto_info:nombre,S Pen
+accesorio-027,producto_info:precio,145
+accesorio-027,producto_info:marca,Samsung
+accesorio-027,producto_info:stock,382
+accesorio-027,accesorio_detalles:compatible_con,varios modelos
+accesorio-027,accesorio_detalles:tipo_accesorio,cable
+accesorio-027,accesorio_detalles:potencia,
+accesorio-027,accesorio_detalles:tipo_conector,Micro-USB
+accesorio-027,accesorio_detalles:cable_incluido,FALSE
+accesorio-028,producto_info:tipo_producto,accesorio
+accesorio-028,producto_info:nombre,Adaptador HDMI
+accesorio-028,producto_info:precio,29
+accesorio-028,producto_info:marca,Samsung
+accesorio-028,producto_info:stock,17
+accesorio-028,accesorio_detalles:compatible_con,varios modelos
+accesorio-028,accesorio_detalles:tipo_accesorio,funda
+accesorio-028,accesorio_detalles:potencia,
+accesorio-028,accesorio_detalles:tipo_conector,Micro-USB
+accesorio-028,accesorio_detalles:cable_incluido,FALSE
+accesorio-029,producto_info:tipo_producto,accesorio
+accesorio-029,producto_info:nombre,AirPods
+accesorio-029,producto_info:precio,61
+accesorio-029,producto_info:marca,Apple
+accesorio-029,producto_info:stock,404
+accesorio-029,accesorio_detalles:compatible_con,varios modelos
+accesorio-029,accesorio_detalles:tipo_accesorio,funda
+accesorio-029,accesorio_detalles:potencia,
+accesorio-029,accesorio_detalles:tipo_conector,Micro-USB
+accesorio-029,accesorio_detalles:cable_incluido,FALSE
+accesorio-030,producto_info:tipo_producto,accesorio
+accesorio-030,producto_info:nombre,Cable Lightning
+accesorio-030,producto_info:precio,122
+accesorio-030,producto_info:marca,Apple
+accesorio-030,producto_info:stock,57
+accesorio-030,accesorio_detalles:compatible_con,varios modelos
+accesorio-030,accesorio_detalles:tipo_accesorio,audífonos
+accesorio-030,accesorio_detalles:potencia,
+accesorio-030,accesorio_detalles:tipo_conector,USB-C
+accesorio-030,accesorio_detalles:cable_incluido,FALSE
+accesorio-031,producto_info:tipo_producto,accesorio
+accesorio-031,producto_info:nombre,Cargador MagSafe
+accesorio-031,producto_info:precio,34
+accesorio-031,producto_info:marca,Apple
+accesorio-031,producto_info:stock,493
+accesorio-031,accesorio_detalles:compatible_con,varios modelos
+accesorio-031,accesorio_detalles:tipo_accesorio,funda
+accesorio-031,accesorio_detalles:potencia,30W
+accesorio-031,accesorio_detalles:tipo_conector,Micro-USB
+accesorio-031,accesorio_detalles:cable_incluido,TRUE
+accesorio-032,producto_info:tipo_producto,accesorio
+accesorio-032,producto_info:nombre,Funda iPhone 14
+accesorio-032,producto_info:precio,138
+accesorio-032,producto_info:marca,Apple
+accesorio-032,producto_info:stock,160
+accesorio-032,accesorio_detalles:compatible_con,varios modelos
+accesorio-032,accesorio_detalles:tipo_accesorio,cable
+accesorio-032,accesorio_detalles:potencia,
+accesorio-032,accesorio_detalles:tipo_conector,Lightning
+accesorio-032,accesorio_detalles:cable_incluido,FALSE
+accesorio-033,producto_info:tipo_producto,accesorio
+accesorio-033,producto_info:nombre,Cargador rápido
+accesorio-033,producto_info:precio,135
+accesorio-033,producto_info:marca,Xiaomi
+accesorio-033,producto_info:stock,478
+accesorio-033,accesorio_detalles:compatible_con,varios modelos
+accesorio-033,accesorio_detalles:tipo_accesorio,batería externa
+accesorio-033,accesorio_detalles:potencia,45W
+accesorio-033,accesorio_detalles:tipo_conector,Lightning
+accesorio-033,accesorio_detalles:cable_incluido,FALSE
+accesorio-034,producto_info:tipo_producto,accesorio
+accesorio-034,producto_info:nombre,Cámara de seguridad
+accesorio-034,producto_info:precio,127
+accesorio-034,producto_info:marca,Xiaomi
+accesorio-034,producto_info:stock,29
+accesorio-034,accesorio_detalles:compatible_con,varios modelos
+accesorio-034,accesorio_detalles:tipo_accesorio,audífonos
+accesorio-034,accesorio_detalles:potencia,
+accesorio-034,accesorio_detalles:tipo_conector,USB-C
+accesorio-034,accesorio_detalles:cable_incluido,FALSE
+accesorio-035,producto_info:tipo_producto,accesorio
+accesorio-035,producto_info:nombre,Smart Band
+accesorio-035,producto_info:precio,62
+accesorio-035,producto_info:marca,Xiaomi
+accesorio-035,producto_info:stock,221
+accesorio-035,accesorio_detalles:compatible_con,varios modelos
+accesorio-035,accesorio_detalles:tipo_accesorio,funda
+accesorio-035,accesorio_detalles:potencia,
+accesorio-035,accesorio_detalles:tipo_conector,Micro-USB
+accesorio-035,accesorio_detalles:cable_incluido,FALSE
+accesorio-036,producto_info:tipo_producto,accesorio
+accesorio-036,producto_info:nombre,Cargador para auto
+accesorio-036,producto_info:precio,110
+accesorio-036,producto_info:marca,Xiaomi
+accesorio-036,producto_info:stock,170
+accesorio-036,accesorio_detalles:compatible_con,varios modelos
+accesorio-036,accesorio_detalles:tipo_accesorio,reloj
+accesorio-036,accesorio_detalles:potencia,30W
+accesorio-036,accesorio_detalles:tipo_conector,Lightning
+accesorio-036,accesorio_detalles:cable_incluido,TRUE
+accesorio-037,producto_info:tipo_producto,accesorio
+accesorio-037,producto_info:nombre,Base carga inalámbrica
+accesorio-037,producto_info:precio,54
+accesorio-037,producto_info:marca,Belkin
+accesorio-037,producto_info:stock,497
+accesorio-037,accesorio_detalles:compatible_con,varios modelos
+accesorio-037,accesorio_detalles:tipo_accesorio,cable
+accesorio-037,accesorio_detalles:potencia,
+accesorio-037,accesorio_detalles:tipo_conector,Lightning
+accesorio-037,accesorio_detalles:cable_incluido,TRUE
+accesorio-038,producto_info:tipo_producto,accesorio
+accesorio-038,producto_info:nombre,Cargador auto USB
+accesorio-038,producto_info:precio,80
+accesorio-038,producto_info:marca,Belkin
+accesorio-038,producto_info:stock,86
+accesorio-038,accesorio_detalles:compatible_con,varios modelos
+accesorio-038,accesorio_detalles:tipo_accesorio,adaptador
+accesorio-038,accesorio_detalles:potencia,45W
+accesorio-038,accesorio_detalles:tipo_conector,Lightning
+accesorio-038,accesorio_detalles:cable_incluido,TRUE
+accesorio-039,producto_info:tipo_producto,accesorio
+accesorio-039,producto_info:nombre,Protector pantalla
+accesorio-039,producto_info:precio,15
+accesorio-039,producto_info:marca,Belkin
+accesorio-039,producto_info:stock,447
+accesorio-039,accesorio_detalles:compatible_con,varios modelos
+accesorio-039,accesorio_detalles:tipo_accesorio,adaptador
+accesorio-039,accesorio_detalles:potencia,
+accesorio-039,accesorio_detalles:tipo_conector,Lightning
+accesorio-039,accesorio_detalles:cable_incluido,FALSE
+accesorio-040,producto_info:tipo_producto,accesorio
+accesorio-040,producto_info:nombre,Hub USB-C
+accesorio-040,producto_info:precio,127
+accesorio-040,producto_info:marca,Belkin
+accesorio-040,producto_info:stock,418
+accesorio-040,accesorio_detalles:compatible_con,varios modelos
+accesorio-040,accesorio_detalles:tipo_accesorio,adaptador
+accesorio-040,accesorio_detalles:potencia,
+accesorio-040,accesorio_detalles:tipo_conector,USB-C
+accesorio-040,accesorio_detalles:cable_incluido,FALSE
+equipo-031,producto_info:tipo_producto,equipo
+equipo-031,producto_info:nombre,Edge 30
+equipo-031,producto_info:precio,713
+equipo-031,producto_info:marca,Motorola
+equipo-031,producto_info:stock,8
+equipo-031,equipo_detalles:tipo,celular
+equipo-031,equipo_detalles:almacenamiento,128
+equipo-031,equipo_detalles:ram,12
+equipo-031,equipo_detalles:bateria,3425
+equipo-031,equipo_detalles:pantalla,6.3
+equipo-031,equipo_detalles:sistema_operativo,Android
+equipo-032,producto_info:tipo_producto,equipo
+equipo-032,producto_info:nombre,Moto G Stylus
+equipo-032,producto_info:precio,413
+equipo-032,producto_info:marca,Motorola
+equipo-032,producto_info:stock,92
+equipo-032,equipo_detalles:tipo,celular
+equipo-032,equipo_detalles:almacenamiento,512
+equipo-032,equipo_detalles:ram,6
+equipo-032,equipo_detalles:bateria,4389
+equipo-032,equipo_detalles:pantalla,6.3
+equipo-032,equipo_detalles:sistema_operativo,Android
+equipo-033,producto_info:tipo_producto,equipo
+equipo-033,producto_info:nombre,Galaxy S23
+equipo-033,producto_info:precio,959
+equipo-033,producto_info:marca,Samsung
+equipo-033,producto_info:stock,75
+equipo-033,equipo_detalles:tipo,celular
+equipo-033,equipo_detalles:almacenamiento,512
+equipo-033,equipo_detalles:ram,12
+equipo-033,equipo_detalles:bateria,3021
+equipo-033,equipo_detalles:pantalla,6.3
+equipo-033,equipo_detalles:sistema_operativo,Android
+equipo-034,producto_info:tipo_producto,equipo
+equipo-034,producto_info:nombre,iPhone 14 Pro
+equipo-034,producto_info:precio,348
+equipo-034,producto_info:marca,Apple
+equipo-034,producto_info:stock,19
+equipo-034,equipo_detalles:tipo,celular
+equipo-034,equipo_detalles:almacenamiento,128
+equipo-034,equipo_detalles:ram,12
+equipo-034,equipo_detalles:bateria,3570
+equipo-034,equipo_detalles:pantalla,6.5
+equipo-034,equipo_detalles:sistema_operativo,iOS
+equipo-035,producto_info:tipo_producto,equipo
+equipo-035,producto_info:nombre,OnePlus 9
+equipo-035,producto_info:precio,989
+equipo-035,producto_info:marca,OnePlus
+equipo-035,producto_info:stock,58
+equipo-035,equipo_detalles:tipo,celular
+equipo-035,equipo_detalles:almacenamiento,512
+equipo-035,equipo_detalles:ram,12
+equipo-035,equipo_detalles:bateria,4562
+equipo-035,equipo_detalles:pantalla,6.1
+equipo-035,equipo_detalles:sistema_operativo,Android
+equipo-036,producto_info:tipo_producto,equipo
+equipo-036,producto_info:nombre,Mi 12
+equipo-036,producto_info:precio,862
+equipo-036,producto_info:marca,Xiaomi
+equipo-036,producto_info:stock,83
+equipo-036,equipo_detalles:tipo,celular
+equipo-036,equipo_detalles:almacenamiento,128
+equipo-036,equipo_detalles:ram,8
+equipo-036,equipo_detalles:bateria,4330
+equipo-036,equipo_detalles:pantalla,5.9
+equipo-036,equipo_detalles:sistema_operativo,Android
+equipo-037,producto_info:tipo_producto,equipo
+equipo-037,producto_info:nombre,Galaxy A54
+equipo-037,producto_info:precio,449
+equipo-037,producto_info:marca,Samsung
+equipo-037,producto_info:stock,44
+equipo-037,equipo_detalles:tipo,celular
+equipo-037,equipo_detalles:almacenamiento,128
+equipo-037,equipo_detalles:ram,12
+equipo-037,equipo_detalles:bateria,4489
+equipo-037,equipo_detalles:pantalla,6.6
+equipo-037,equipo_detalles:sistema_operativo,Android
+equipo-038,producto_info:tipo_producto,equipo
+equipo-038,producto_info:nombre,Edge 40
+equipo-038,producto_info:precio,863
+equipo-038,producto_info:marca,Motorola
+equipo-038,producto_info:stock,55
+equipo-038,equipo_detalles:tipo,celular
+equipo-038,equipo_detalles:almacenamiento,512
+equipo-038,equipo_detalles:ram,6
+equipo-038,equipo_detalles:bateria,4782
+equipo-038,equipo_detalles:pantalla,6.2
+equipo-038,equipo_detalles:sistema_operativo,Android
+equipo-039,producto_info:tipo_producto,equipo
+equipo-039,producto_info:nombre,Edge 40
+equipo-039,producto_info:precio,755
+equipo-039,producto_info:marca,Motorola
+equipo-039,producto_info:stock,58
+equipo-039,equipo_detalles:tipo,celular
+equipo-039,equipo_detalles:almacenamiento,512
+equipo-039,equipo_detalles:ram,4
+equipo-039,equipo_detalles:bateria,4270
+equipo-039,equipo_detalles:pantalla,6.5
+equipo-039,equipo_detalles:sistema_operativo,Android
+equipo-040,producto_info:tipo_producto,equipo
+equipo-040,producto_info:nombre,iPhone 15
+equipo-040,producto_info:precio,1150
+equipo-040,producto_info:marca,Apple
+equipo-040,producto_info:stock,47
+equipo-040,equipo_detalles:tipo,celular
+equipo-040,equipo_detalles:almacenamiento,256
+equipo-040,equipo_detalles:ram,12
+equipo-040,equipo_detalles:bateria,4775
+equipo-040,equipo_detalles:pantalla,6.3
+equipo-040,equipo_detalles:sistema_operativo,iOS
+accesorio-041,producto_info:tipo_producto,accesorio
+accesorio-041,producto_info:nombre,Cable USB-C
+accesorio-041,producto_info:precio,121
+accesorio-041,producto_info:marca,Anker
+accesorio-041,producto_info:stock,490
+accesorio-041,accesorio_detalles:compatible_con,varios modelos
+accesorio-041,accesorio_detalles:tipo_accesorio,audífonos
+accesorio-041,accesorio_detalles:potencia,
+accesorio-041,accesorio_detalles:tipo_conector,Lightning
+accesorio-041,accesorio_detalles:cable_incluido,TRUE
+accesorio-042,producto_info:tipo_producto,accesorio
+accesorio-042,producto_info:nombre,Base carga inalámbrica
+accesorio-042,producto_info:precio,26
+accesorio-042,producto_info:marca,Belkin
+accesorio-042,producto_info:stock,263
+accesorio-042,accesorio_detalles:compatible_con,varios modelos
+accesorio-042,accesorio_detalles:tipo_accesorio,cargador
+accesorio-042,accesorio_detalles:potencia,
+accesorio-042,accesorio_detalles:tipo_conector,Lightning
+accesorio-042,accesorio_detalles:cable_incluido,TRUE
+accesorio-043,producto_info:tipo_producto,accesorio
+accesorio-043,producto_info:nombre,S Pen
+accesorio-043,producto_info:precio,93
+accesorio-043,producto_info:marca,Samsung
+accesorio-043,producto_info:stock,49
+accesorio-043,accesorio_detalles:compatible_con,varios modelos
+accesorio-043,accesorio_detalles:tipo_accesorio,cable
+accesorio-043,accesorio_detalles:potencia,
+accesorio-043,accesorio_detalles:tipo_conector,Micro-USB
+accesorio-043,accesorio_detalles:cable_incluido,FALSE
+accesorio-044,producto_info:tipo_producto,accesorio
+accesorio-044,producto_info:nombre,Funda Galaxy S22
+accesorio-044,producto_info:precio,127
+accesorio-044,producto_info:marca,Samsung
+accesorio-044,producto_info:stock,44
+accesorio-044,accesorio_detalles:compatible_con,varios modelos
+accesorio-044,accesorio_detalles:tipo_accesorio,funda
+accesorio-044,accesorio_detalles:potencia,
+accesorio-044,accesorio_detalles:tipo_conector,USB-C
+accesorio-044,accesorio_detalles:cable_incluido,FALSE
+accesorio-045,producto_info:tipo_producto,accesorio
+accesorio-045,producto_info:nombre,Cargador MagSafe
+accesorio-045,producto_info:precio,111
+accesorio-045,producto_info:marca,Apple
+accesorio-045,producto_info:stock,116
+accesorio-045,accesorio_detalles:compatible_con,varios modelos
+accesorio-045,accesorio_detalles:tipo_accesorio,cargador
+accesorio-045,accesorio_detalles:potencia,20W
+accesorio-045,accesorio_detalles:tipo_conector,Lightning
+accesorio-045,accesorio_detalles:cable_incluido,TRUE
+accesorio-046,producto_info:tipo_producto,accesorio
+accesorio-046,producto_info:nombre,Cargador 20W
+accesorio-046,producto_info:precio,109
+accesorio-046,producto_info:marca,Anker
+accesorio-046,producto_info:stock,177
+accesorio-046,accesorio_detalles:compatible_con,varios modelos
+accesorio-046,accesorio_detalles:tipo_accesorio,reloj
+accesorio-046,accesorio_detalles:potencia,10W
+accesorio-046,accesorio_detalles:tipo_conector,USB-C
+accesorio-046,accesorio_detalles:cable_incluido,TRUE
+accesorio-047,producto_info:tipo_producto,accesorio
+accesorio-047,producto_info:nombre,Cámara de seguridad
+accesorio-047,producto_info:precio,75
+accesorio-047,producto_info:marca,Xiaomi
+accesorio-047,producto_info:stock,108
+accesorio-047,accesorio_detalles:compatible_con,varios modelos
+accesorio-047,accesorio_detalles:tipo_accesorio,adaptador
+accesorio-047,accesorio_detalles:potencia,
+accesorio-047,accesorio_detalles:tipo_conector,Micro-USB
+accesorio-047,accesorio_detalles:cable_incluido,TRUE
+accesorio-048,producto_info:tipo_producto,accesorio
+accesorio-048,producto_info:nombre,Cámara de seguridad
+accesorio-048,producto_info:precio,41
+accesorio-048,producto_info:marca,Xiaomi
+accesorio-048,producto_info:stock,493
+accesorio-048,accesorio_detalles:compatible_con,varios modelos
+accesorio-048,accesorio_detalles:tipo_accesorio,cargador
+accesorio-048,accesorio_detalles:potencia,
+accesorio-048,accesorio_detalles:tipo_conector,Lightning
+accesorio-048,accesorio_detalles:cable_incluido,FALSE
+accesorio-049,producto_info:tipo_producto,accesorio
+accesorio-049,producto_info:nombre,Cable Lightning
+accesorio-049,producto_info:precio,100
+accesorio-049,producto_info:marca,Apple
+accesorio-049,producto_info:stock,493
+accesorio-049,accesorio_detalles:compatible_con,varios modelos
+accesorio-049,accesorio_detalles:tipo_accesorio,adaptador
+accesorio-049,accesorio_detalles:potencia,
+accesorio-049,accesorio_detalles:tipo_conector,Lightning
+accesorio-049,accesorio_detalles:cable_incluido,TRUE
+accesorio-050,producto_info:tipo_producto,accesorio
+accesorio-050,producto_info:nombre,Cargador para auto
+accesorio-050,producto_info:precio,121
+accesorio-050,producto_info:marca,Xiaomi
+accesorio-050,producto_info:stock,152
+accesorio-050,accesorio_detalles:compatible_con,varios modelos
+accesorio-050,accesorio_detalles:tipo_accesorio,funda
+accesorio-050,accesorio_detalles:potencia,5W
+accesorio-050,accesorio_detalles:tipo_conector,USB-C
+accesorio-050,accesorio_detalles:cable_incluido,FALSE
+equipo-041,producto_info:tipo_producto,equipo
+equipo-041,producto_info:nombre,Edge 30
+equipo-041,producto_info:precio,713
+equipo-041,producto_info:marca,Motorola
+equipo-041,producto_info:stock,8
+equipo-041,equipo_detalles:tipo,celular
+equipo-041,equipo_detalles:almacenamiento,128
+equipo-041,equipo_detalles:ram,12
+equipo-041,equipo_detalles:bateria,3425
+equipo-041,equipo_detalles:pantalla,6.3
+equipo-041,equipo_detalles:sistema_operativo,Android
+equipo-042,producto_info:tipo_producto,equipo
+equipo-042,producto_info:nombre,Moto G Stylus
+equipo-042,producto_info:precio,413
+equipo-042,producto_info:marca,Motorola
+equipo-042,producto_info:stock,92
+equipo-042,equipo_detalles:tipo,celular
+equipo-042,equipo_detalles:almacenamiento,512
+equipo-042,equipo_detalles:ram,6
+equipo-042,equipo_detalles:bateria,4389
+equipo-042,equipo_detalles:pantalla,6.3
+equipo-042,equipo_detalles:sistema_operativo,Android
+equipo-043,producto_info:tipo_producto,equipo
+equipo-043,producto_info:nombre,Galaxy S23
+equipo-043,producto_info:precio,959
+equipo-043,producto_info:marca,Samsung
+equipo-043,producto_info:stock,75
+equipo-043,equipo_detalles:tipo,celular
+equipo-043,equipo_detalles:almacenamiento,512
+equipo-043,equipo_detalles:ram,12
+equipo-043,equipo_detalles:bateria,3021
+equipo-043,equipo_detalles:pantalla,6.3
+equipo-043,equipo_detalles:sistema_operativo,Android
+equipo-044,producto_info:tipo_producto,equipo
+equipo-044,producto_info:nombre,iPhone 14 Pro
+equipo-044,producto_info:precio,348
+equipo-044,producto_info:marca,Apple
+equipo-044,producto_info:stock,19
+equipo-044,equipo_detalles:tipo,celular
+equipo-044,equipo_detalles:almacenamiento,128
+equipo-044,equipo_detalles:ram,12
+equipo-044,equipo_detalles:bateria,3570
+equipo-044,equipo_detalles:pantalla,6.5
+equipo-044,equipo_detalles:sistema_operativo,iOS
+equipo-045,producto_info:tipo_producto,equipo
+equipo-045,producto_info:nombre,OnePlus 9
+equipo-045,producto_info:precio,989
+equipo-045,producto_info:marca,OnePlus
+equipo-045,producto_info:stock,58
+equipo-045,equipo_detalles:tipo,celular
+equipo-045,equipo_detalles:almacenamiento,512
+equipo-045,equipo_detalles:ram,12
+equipo-045,equipo_detalles:bateria,4562
+equipo-045,equipo_detalles:pantalla,6.1
+equipo-045,equipo_detalles:sistema_operativo,Android
+equipo-046,producto_info:tipo_producto,equipo
+equipo-046,producto_info:nombre,Mi 12
+equipo-046,producto_info:precio,862
+equipo-046,producto_info:marca,Xiaomi
+equipo-046,producto_info:stock,83
+equipo-046,equipo_detalles:tipo,celular
+equipo-046,equipo_detalles:almacenamiento,128
+equipo-046,equipo_detalles:ram,8
+equipo-046,equipo_detalles:bateria,4330
+equipo-046,equipo_detalles:pantalla,5.9
+equipo-046,equipo_detalles:sistema_operativo,Android
+equipo-047,producto_info:tipo_producto,equipo
+equipo-047,producto_info:nombre,Galaxy A54
+equipo-047,producto_info:precio,449
+equipo-047,producto_info:marca,Samsung
+equipo-047,producto_info:stock,44
+equipo-047,equipo_detalles:tipo,celular
+equipo-047,equipo_detalles:almacenamiento,128
+equipo-047,equipo_detalles:ram,12
+equipo-047,equipo_detalles:bateria,4489
+equipo-047,equipo_detalles:pantalla,6.6
+equipo-047,equipo_detalles:sistema_operativo,Android
+equipo-048,producto_info:tipo_producto,equipo
+equipo-048,producto_info:nombre,Edge 40
+equipo-048,producto_info:precio,863
+equipo-048,producto_info:marca,Motorola
+equipo-048,producto_info:stock,55
+equipo-048,equipo_detalles:tipo,celular
+equipo-048,equipo_detalles:almacenamiento,512
+equipo-048,equipo_detalles:ram,6
+equipo-048,equipo_detalles:bateria,4782
+equipo-048,equipo_detalles:pantalla,6.2
+equipo-048,equipo_detalles:sistema_operativo,Android
+equipo-049,producto_info:tipo_producto,equipo
+equipo-049,producto_info:nombre,Edge 40
+equipo-049,producto_info:precio,755
+equipo-049,producto_info:marca,Motorola
+equipo-049,producto_info:stock,58
+equipo-049,equipo_detalles:tipo,celular
+equipo-049,equipo_detalles:almacenamiento,512
+equipo-049,equipo_detalles:ram,4
+equipo-049,equipo_detalles:bateria,4270
+equipo-049,equipo_detalles:pantalla,6.5
+equipo-049,equipo_detalles:sistema_operativo,Android
+equipo-050,producto_info:tipo_producto,equipo
+equipo-050,producto_info:nombre,iPhone 15
+equipo-050,producto_info:precio,1150
+equipo-050,producto_info:marca,Apple
+equipo-050,producto_info:stock,47
+equipo-050,equipo_detalles:tipo,celular
+equipo-050,equipo_detalles:almacenamiento,256
+equipo-050,equipo_detalles:ram,12
+equipo-050,equipo_detalles:bateria,4775
+equipo-050,equipo_detalles:pantalla,6.3
+equipo-050,equipo_detalles:sistema_operativo,iOS
+accesorio-051,producto_info:tipo_producto,accesorio
+accesorio-051,producto_info:nombre,Cable USB-C
+accesorio-051,producto_info:precio,121
+accesorio-051,producto_info:marca,Anker
+accesorio-051,producto_info:stock,490
+accesorio-051,accesorio_detalles:compatible_con,varios modelos
+accesorio-051,accesorio_detalles:tipo_accesorio,audífonos
+accesorio-051,accesorio_detalles:potencia,
+accesorio-051,accesorio_detalles:tipo_conector,Lightning
+accesorio-051,accesorio_detalles:cable_incluido,TRUE
+accesorio-052,producto_info:tipo_producto,accesorio
+accesorio-052,producto_info:nombre,Base carga inalámbrica
+accesorio-052,producto_info:precio,26
+accesorio-052,producto_info:marca,Belkin
+accesorio-052,producto_info:stock,263
+accesorio-052,accesorio_detalles:compatible_con,varios modelos
+accesorio-052,accesorio_detalles:tipo_accesorio,cargador
+accesorio-052,accesorio_detalles:potencia,
+accesorio-052,accesorio_detalles:tipo_conector,Lightning
+accesorio-052,accesorio_detalles:cable_incluido,TRUE
+accesorio-053,producto_info:tipo_producto,accesorio
+accesorio-053,producto_info:nombre,S Pen
+accesorio-053,producto_info:precio,93
+accesorio-053,producto_info:marca,Samsung
+accesorio-053,producto_info:stock,49
+accesorio-053,accesorio_detalles:compatible_con,varios modelos
+accesorio-053,accesorio_detalles:tipo_accesorio,cable
+accesorio-053,accesorio_detalles:potencia,
+accesorio-053,accesorio_detalles:tipo_conector,Micro-USB
+accesorio-053,accesorio_detalles:cable_incluido,FALSE
+accesorio-054,producto_info:tipo_producto,accesorio
+accesorio-054,producto_info:nombre,Funda Galaxy S22
+accesorio-054,producto_info:precio,127
+accesorio-054,producto_info:marca,Samsung
+accesorio-054,producto_info:stock,44
+accesorio-054,accesorio_detalles:compatible_con,varios modelos
+accesorio-054,accesorio_detalles:tipo_accesorio,funda
+accesorio-054,accesorio_detalles:potencia,
+accesorio-054,accesorio_detalles:tipo_conector,USB-C
+accesorio-054,accesorio_detalles:cable_incluido,FALSE
+accesorio-055,producto_info:tipo_producto,accesorio
+accesorio-055,producto_info:nombre,Cargador MagSafe
+accesorio-055,producto_info:precio,111
+accesorio-055,producto_info:marca,Apple
+accesorio-055,producto_info:stock,116
+accesorio-055,accesorio_detalles:compatible_con,varios modelos
+accesorio-055,accesorio_detalles:tipo_accesorio,cargador
+accesorio-055,accesorio_detalles:potencia,20W
+accesorio-055,accesorio_detalles:tipo_conector,Lightning
+accesorio-055,accesorio_detalles:cable_incluido,TRUE
+accesorio-056,producto_info:tipo_producto,accesorio
+accesorio-056,producto_info:nombre,Cargador 20W
+accesorio-056,producto_info:precio,109
+accesorio-056,producto_info:marca,Anker
+accesorio-056,producto_info:stock,177
+accesorio-056,accesorio_detalles:compatible_con,varios modelos
+accesorio-056,accesorio_detalles:tipo_accesorio,reloj
+accesorio-056,accesorio_detalles:potencia,10W
+accesorio-056,accesorio_detalles:tipo_conector,USB-C
+accesorio-056,accesorio_detalles:cable_incluido,TRUE
+accesorio-057,producto_info:tipo_producto,accesorio
+accesorio-057,producto_info:nombre,Cámara de seguridad
+accesorio-057,producto_info:precio,75
+accesorio-057,producto_info:marca,Xiaomi
+accesorio-057,producto_info:stock,108
+accesorio-057,accesorio_detalles:compatible_con,varios modelos
+accesorio-057,accesorio_detalles:tipo_accesorio,adaptador
+accesorio-057,accesorio_detalles:potencia,
+accesorio-057,accesorio_detalles:tipo_conector,Micro-USB
+accesorio-057,accesorio_detalles:cable_incluido,TRUE
+accesorio-058,producto_info:tipo_producto,accesorio
+accesorio-058,producto_info:nombre,Cámara de seguridad
+accesorio-058,producto_info:precio,41
+accesorio-058,producto_info:marca,Xiaomi
+accesorio-058,producto_info:stock,493
+accesorio-058,accesorio_detalles:compatible_con,varios modelos
+accesorio-058,accesorio_detalles:tipo_accesorio,cargador
+accesorio-058,accesorio_detalles:potencia,
+accesorio-058,accesorio_detalles:tipo_conector,Lightning
+accesorio-058,accesorio_detalles:cable_incluido,FALSE
+accesorio-059,producto_info:tipo_producto,accesorio
+accesorio-059,producto_info:nombre,Cable Lightning
+accesorio-059,producto_info:precio,100
+accesorio-059,producto_info:marca,Apple
+accesorio-059,producto_info:stock,493
+accesorio-059,accesorio_detalles:compatible_con,varios modelos
+accesorio-059,accesorio_detalles:tipo_accesorio,adaptador
+accesorio-059,accesorio_detalles:potencia,
+accesorio-059,accesorio_detalles:tipo_conector,Lightning
+accesorio-059,accesorio_detalles:cable_incluido,TRUE
+accesorio-060,producto_info:tipo_producto,accesorio
+accesorio-060,producto_info:nombre,Cargador para auto
+accesorio-060,producto_info:precio,121
+accesorio-060,producto_info:marca,Xiaomi
+accesorio-060,producto_info:stock,152
+accesorio-060,accesorio_detalles:compatible_con,varios modelos
+accesorio-060,accesorio_detalles:tipo_accesorio,funda
+accesorio-060,accesorio_detalles:potencia,5W
+accesorio-060,accesorio_detalles:tipo_conector,USB-C
+accesorio-060,accesorio_detalles:cable_incluido,FALSE
